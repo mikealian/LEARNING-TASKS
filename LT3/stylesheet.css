@@ -1,0 +1,404 @@
+body{
+    
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;       
+}
+#wrapper{
+    width: 2040pxactive;
+    min-height: 1565px;
+    margin: 0 auto;
+    padding: 10px;        
+}
+#header{
+    
+    background-color: #FBB034;
+    font-family: monospace;
+}
+
+
+#box-one{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(SavingPrivateRyan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    
+        
+}
+#box-two{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(12strong.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    
+}
+#box-three{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(OlympusHasFallen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-four{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(StarWars.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    
+}
+#box-five{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(BacktotheFuture.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-six{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(Lord%20of%20the%20Rings.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;   
+}
+#box-seven{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(PiratesoftheCaribbean.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-eight{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(onepiece.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-nine{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(Endgame.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+#box-ten{
+    width: 400px;
+    height: 650px;
+    border: 2px solid #FBB034;
+    margin: 10px;
+    padding: 30px;
+    float: left;
+    background-image: url(13hours.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+.text-one{
+    color: #FBB034;
+    position: relative;
+    bottom: 40px;
+    right: 20px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-one-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 45px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-two{
+    color: #FBB034;
+    position: relative;
+    bottom: 200px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-two-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 200px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-three{
+    color: #FBB034;
+    position: relative;
+    bottom: 220px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-three-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 220px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-four{
+    color: #FBB034;
+    position: relative;
+    bottom: 220px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-four-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 220px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-five{
+    color: #FBB034;
+    position: relative;
+    bottom: 220px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-five-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 220px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-six{
+    color: #FBB034;
+    position: relative;
+    bottom: 140px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-six-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 140px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-seven{
+    color: #FBB034;
+    position: relative;
+    bottom: 170px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-seven-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 170px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-eight{
+    color: #FBB034;
+    position: relative;
+    bottom: 105px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-eight-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 105px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-nine{
+    color: #FBB034;
+    position: relative;
+    bottom: 190px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-nine-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 190px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-ten{
+    color: #FBB034;
+    position: relative;
+    bottom: 240px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.text-ten-title{
+    color: #FBB034;
+    position: relative;
+    bottom: 240px;
+    right: 25px;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgba(88, 88, 88, 0.5);
+}
+.test-content-one{
+    color: #FBB034;
+    position: relative;
+    top: 389px;
+    font-size: 14px;
+    font-family: monospace;
+    background-color: black;
+}
+.test-content-two{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-three{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-four{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-five{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-six{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-seven{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-eight{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-nine{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
+.test-content-ten{
+    color: #FBB034;
+    position: relative;
+    top: 490px;
+    font-family: monospace;
+    font-size: 14px;
+    background-color: black;
+}
